@@ -20,13 +20,6 @@ I love exploring data, building models, and telling stories through visualizatio
 - **Languages**: R  
 - **Libraries**: ggplot2, dplyr 
 - **Tools**: Git, GitHub, Excel, Quarto, Shiny Apps
-
----
-
-## 📫 Connect With Me
-- 💼 [LinkedIn](https://www.linkedin.com/)  
-- 📧 thisurinima@gmailcom  
-
 ---
 
 ⭐ *"Turning data into knowledge, and knowledge into impact."*
