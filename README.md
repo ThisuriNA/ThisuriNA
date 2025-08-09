@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Thisuri Athukorala
 
-🎓 **Undergraduate** | 📊 **Statistics (Special Degree)** | 🤖 **Aspiring Data Scientist**
+🎓 **Undergraduate** | 📊 **Statistics (Special Degree)** 
 
 ---
 
@@ -19,7 +19,7 @@ I love exploring data, building models, and telling stories through visualizatio
 ## 🛠 Skills
 - **Languages**: R  
 - **Libraries**: ggplot2, dplyr 
-- **Tools**: Git, GitHub, Excel, Quarto, Shiny Apps
+- **Tools**: Git, GitHub, Excel, Quarto, RMarkdown, Shiny Apps
 ---
 
 ⭐ *"Turning data into knowledge, and knowledge into impact."*
