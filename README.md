@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm Thisuri Athukorala
 
-<!--
-**ThisuriNA/ThisuriNA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Undergraduate** | 📊 **Statistics (Special Degree)** | 🤖 **Aspiring Data Scientist**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 About Me
+I’m an undergraduate student following a **BSc (Special) in Statistics** with a passion for **data science, analytics, and machine learning**.  
+I love exploring data, building models, and telling stories through visualizations.
+
+💡 My key interests include:
+- 📈 Data Analysis & Visualization
+- 🔍 Statistical Modeling
+- 🤝 Collaborative Projects
+- 📊 Machine Learning Applications
+
+---
+
+## 🛠 Skills
+- **Languages**: R  
+- **Libraries**: ggplot2, dplyr 
+- **Tools**: Git, GitHub, Excel, Quarto, Shiny Apps
+
+---
+
+## 📫 Connect With Me
+- 💼 [LinkedIn](https://www.linkedin.com/)  
+- 📧 thisurinima@gmailcom  
+
+---
+
+⭐ *"Turning data into knowledge, and knowledge into impact."*
+
